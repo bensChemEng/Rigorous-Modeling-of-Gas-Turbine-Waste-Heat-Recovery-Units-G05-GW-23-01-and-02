@@ -1,4 +1,4 @@
-# Rigorous Modeling of the G05-GW-23-01 and 02 Waste Heat Recovery Units from Booster Gas Compressors (Excel)
+# Rigorous Modeling of the G05-GW-23-01 and 02 Waste Heat Recovery Units from Booster Gas Compressors (Excel), Rhourde-Nouss Natural Gas Central Processing Facility, Southeastern Algeria
 
 **Rhourde Nouss Natural Gas Central Processing Facility, Southeastern Algeria**
 

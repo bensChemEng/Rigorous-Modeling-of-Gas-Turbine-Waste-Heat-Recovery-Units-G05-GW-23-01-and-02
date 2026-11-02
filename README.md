@@ -59,7 +59,7 @@ The model combines Weierman/ESCOA serrated fin correlations on the gas side with
 The plot in Figure 3 shows how the cumulative thermal efficiency builds up over each row until it reaches the overall thermal efficiency of η<sub>Th</sub> = 77.2 %.
 
 ## Tools
-Microsoft Excel
+Microsoft Excel (Calculations), OriginLab (Plots)
 
 ## Skils
 Waste Heat Recovery Unit - Heat Exchanger Modeling and Thermal Design - Process and Thermodynamic Analysis - Natural Gas Processing - 

@@ -62,7 +62,7 @@ The plot in Figure 3 shows how the cumulative thermal efficiency builds up over 
 Microsoft Excel (Calculations), OriginLab (Plots)
 
 ## Skils
-Waste Heat Recovery Unit - Heat Exchanger Modeling and Thermal Design - Process and Thermodynamic Analysis - Natural Gas Processing - 
+Waste Heat Recovery Unit - Heat Exchanger Modeling and Thermal Design - Process and Thermodynamic Analysis - Natural Gas Processing
 
 ## Notes
 

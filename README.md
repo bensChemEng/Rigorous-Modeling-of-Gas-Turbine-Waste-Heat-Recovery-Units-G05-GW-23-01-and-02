@@ -29,16 +29,16 @@ The model combines Weierman/ESCOA serrated fin correlations on the gas side with
 
 ### Thermal Model
 - **ε-NTU method** applied row by row to the 16-row unit.
-- Overall extended (finned) exchange area calculated from the tube and fin geometry.
-- Total thermal duty, oil return temperature and overall thermal efficiency (η<sub>Th</sub>) predicted by the model.
+- Overall Extended (Finned) Exchange Area calculated from the tube and fin geometry.
+- Total Thermal Duty, Oil Return Temperature and Overall Thermal Efficiency (η<sub>Th</sub>) predicted by the model.
 - Two temperature profile cases compared: a **UA split** with row-specific UA, and a **linear temperature profile**.
 
 ## Validation Against Vendor Design Data
 | Parameter | Model | Vendor design | Deviation (%) |
 |---|---|---|---|
-| Overall finned (extended) area (m²) | 3241.75 | 3240 | 0.05 |
-| Total thermal duty (MW) | 12.68 | 12.5 | 1.45 |
-| Oil return temperature (°C) | 167.67 | 167 | 0.4 |
+| Overall Finned (Extended) Area (m²) | 3241.75 | 3240 | 0.05 |
+| Total Thermal Duty (MW) | 12.68 | 12.5 | 1.45 |
+| Oil Return Temperature (°C) | 167.67 | 167 | 0.4 |
 
 **Model result:** overall thermal efficiency η<sub>Th</sub> = 77.2 %.
 
@@ -60,6 +60,9 @@ The plot in Figure 3 shows how the cumulative thermal efficiency builds up over 
 
 ## Tools
 Microsoft Excel
+
+## Skils
+Waste Heat Recovery Unit - Heat Exchanger Modeling and Thermal Design - Process and Thermodynamic Analysis - Natural Gas Processing - 
 
 ## Notes
 

@@ -34,7 +34,7 @@ The model combines Weierman/ESCOA serrated fin correlations on the gas side with
 - Two temperature profile cases compared: a **UA split** with row-specific UA, and a **linear temperature profile**.
 
 ## Validation Against Vendor Design Data
-| Quantity | Model | Vendor design | Deviation (%) |
+| Parameter | Model | Vendor design | Deviation (%) |
 |---|---|---|---|
 | Overall finned (extended) area (m²) | 3241.75 | 3240 | 0.05 |
 | Total thermal duty (MW) | 12.68 | 12.5 | 1.45 |
@@ -63,6 +63,6 @@ Microsoft Excel
 
 ## Notes
 
-Inputs are sanitized or normalized; no confidential plant or vendor data is included.
+Inputs are sanitized; no confidential plant or vendor data is included.
 
 *This repository is only a preview of some results from the model developed in Excel (no workbook is attached).*
